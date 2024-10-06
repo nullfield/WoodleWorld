@@ -1,0 +1,5 @@
+<loot>
+    <append xpath="/lootcontainers/lootgroup[@name='groupToilet02']">
+        <item name="meleeWpnBatonT2StunBatonParts" count="1" loot_prob_template="veryLow"/>
+    </append>
+</loot>

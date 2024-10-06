@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="WoodleWorld" />
+	<DisplayName value="Woodle World"/>
+	<Description value="This mod creates JaWoodle's Dream World. Don't peek!'" />
+	<Author value="drgnkght" />
+	<Version value="1.0.0.0" />
+	<!--<Website value="https://github.com/nullfield/WoodleWorld/" />-->
+</xml>
